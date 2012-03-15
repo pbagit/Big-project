@@ -1,0 +1,3 @@
+[submodule "bp_plugin"]
+	path = bp_plugin
+	url = git://github.com/pbagit/Big-project.git
